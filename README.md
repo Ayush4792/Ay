@@ -1,3 +1,4 @@
+![logo]
 <h1 align="center">Hi 👋, I'm Ayush Anand</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUR1aERrUjBNR3RhdGJtV295VFd1YXhudmdPUXxBQ3Jtc0trZWtYb1RDN0QxSUloTEVVaFhrdGdRb3BCZ2d1MzFQV3A4YVU2ZzVZWkNHandvbDByb2xfLVZGSG1Yby1FUTN6eGhLWlYwV1Q2UllmOE9ZaTk4Qks4YnVfbFFqRlhIUG51a3lTbjBWa3FHalFPbk1yWQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"
